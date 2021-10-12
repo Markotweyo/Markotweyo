@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Markotweyo
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me markotweyo@gmail.com
+I am a self-driven individual with a hands-on, well-developed skills in Agile methodology and expertise to perform full software development life cycle activities.
 
 <!---
 Markotweyo/Markotweyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
