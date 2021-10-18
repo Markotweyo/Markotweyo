@@ -3,7 +3,7 @@
 - A **Software Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
 - A **Frontend Developer** by day, **Backend Developer** by night (well, sometimes 😄) .
 - Experimenting with the **DevOps** as well and currently working on a Node/React side-project.
-- Have a keen interest in designing, graphics and photo manipulation.
+- Have a keen interest in Designing and Developing software that change the world .
 
 ## Tech/Software Stack
 
@@ -24,7 +24,7 @@
 <br/>
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000)
 <br/>
