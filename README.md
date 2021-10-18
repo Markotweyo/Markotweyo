@@ -7,27 +7,23 @@
 
 ## Tech/Software Stack
 
-![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000)
-
-<br/>
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
-
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000)
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&logo=react&message=React&label=&color=61DAFB&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=tailwind-css&message=Tailwind%20CSS&label=&color=38B2AC&labelColor=000000)
 <br/>
+<br/>
+
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&logo=git&message=Git&label=&color=F05032&labelColor=000000)
-
 ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&logo=jenkins&message=Jenkins&label=&color=D24939&labelColor=000000)
-
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&logo=docker&message=Docker&label=&color=2496ED&labelColor=000000)
 <br/>
 
 ![Bash](https://img.shields.io/static/v1?style=for-the-badge&logo=gnu-bash&message=Bash&label=&color=4EAA25&labelColor=000000)
-<br/>
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
+<br/>
 
 <p align="center">
 <a href="https://github.com/ronan696">
